@@ -1,0 +1,18 @@
+[submodule "PythonDataScienceHandbook"]
+	path = PythonDataScienceHandbook
+	url = https://github.com/LInDa-ProPesq/PythonDataScienceHandbook.git
+[submodule "aws-setup"]
+	path = aws-setup
+	url = https://github.com/LInDa-ProPesq/aws-setup.git
+[submodule "twitter-code"]
+	path = twitter-code
+	url = https://github.com/LInDa-ProPesq/twitter-code.git
+[submodule "class-activity4"]
+	path = class-activity4
+	url = https://github.com/LInDa-ProPesq/class-activity4.git
+[submodule "RLadies"]
+	path = RLadies
+	url = https://github.com/LInDa-ProPesq/RLadies.git
+[submodule "lecture-slides"]
+	path = lecture-slides
+	url = https://github.com/LInDa-ProPesq/lecture-slides.git
